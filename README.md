@@ -51,4 +51,3 @@ This project delivers an in-depth exploratory data analysis (EDA) of ~20,000 Air
 - Python (Jupyter Notebook)  
 - Pandas, NumPy  
 - Seaborn, Matplotlib  
-![image](https://github.com/user-attachments/assets/486a9a63-d654-4b61-b130-477d99638e1f)
