@@ -5,8 +5,8 @@ This project delivers an in-depth exploratory data analysis (EDA) of ~20,000 Air
 ---
 
 ## 📁 Dataset
-- 📦 ~20,700 rows × 22 columns  
-- 📍 Listings include borough, price, availability, number of reviews, and review scores  
+- ~20,700 rows × 22 columns  
+- Listings include borough, price, availability, number of reviews, and review scores  
 - Source: Kaggle (open dataset)
 
 ---
